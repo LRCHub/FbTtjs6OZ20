@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "同担☆拒否（feat. かぴ）",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-03-02T01:24:57.587945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "同担☆拒否 (feat. かぴ)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_同担☆拒否_(feat._かぴ)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "同担☆拒否 (feat. ちゅーたん(CV:早見沙織))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_同担☆拒否_(feat._ちゅーたん(CV_早見沙織))_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "同担☆拒否 (feat.ちゅーたん)",
+      "artist": "HoneyWorks feat.ちゅーたん(CV.早見沙織)",
+      "has_synced": true,
+      "path": "select/03_同担☆拒否_(feat.ちゅーたん)_HoneyWorks_feat.ちゅーたん(CV.早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "同担☆拒否 feat. ちゅーたん（CV：早見沙織）／HoneyWorks",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_同担☆拒否_feat._ちゅーたん(CV_早見沙織)_HoneyWorks_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "同担☆拒否 (feat. かぴ)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_同担☆拒否_(feat._かぴ)_HoneyWorks.txt"
+    }
+  ]
+}
